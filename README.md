@@ -102,11 +102,17 @@ Web Dashboard (HTML/JS)
 ## Project Structure
 
 📁 Mangrove_Farm_IoT/
+
 ├── 📄 README.md
+
 ├── 📄 dashboard.html # Web dashboard (open in browser)
+
 ├── 📁 esp32_code/
+
 │ ├── esp32_wifi_upload.ino # Firmware using Wi‑Fi
+
 │ └── esp32_gsm_upload.ino # Firmware using GSM/GPRS
+
 └── 📄 thingSpeak_channel_setup.md # (optional) channel settings
 
 
